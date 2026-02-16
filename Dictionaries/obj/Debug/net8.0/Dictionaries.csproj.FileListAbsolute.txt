@@ -1,0 +1,14 @@
+C:\JT\LinqSamples\Dictionaries\bin\Debug\net8.0\Dictionaries.exe
+C:\JT\LinqSamples\Dictionaries\bin\Debug\net8.0\Dictionaries.deps.json
+C:\JT\LinqSamples\Dictionaries\bin\Debug\net8.0\Dictionaries.runtimeconfig.json
+C:\JT\LinqSamples\Dictionaries\bin\Debug\net8.0\Dictionaries.dll
+C:\JT\LinqSamples\Dictionaries\bin\Debug\net8.0\Dictionaries.pdb
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfoInputs.cache
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfo.cs
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.dll
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\refint\Dictionaries.dll
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.pdb
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\Dictionaries.genruntimeconfig.cache
+C:\JT\LinqSamples\Dictionaries\obj\Debug\net8.0\ref\Dictionaries.dll

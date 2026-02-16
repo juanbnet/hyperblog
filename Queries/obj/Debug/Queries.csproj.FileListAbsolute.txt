@@ -1,0 +1,7 @@
+C:\JT\LinqSamples\Queries\bin\Debug\Queries.exe.config
+C:\JT\LinqSamples\Queries\bin\Debug\Queries.exe
+C:\JT\LinqSamples\Queries\bin\Debug\Queries.pdb
+C:\JT\LinqSamples\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\JT\LinqSamples\Queries\obj\Debug\Queries.exe
+C:\JT\LinqSamples\Queries\obj\Debug\Queries.pdb
+C:\JT\LinqSamples\Queries\obj\Debug\Queries.csproj.AssemblyReference.cache

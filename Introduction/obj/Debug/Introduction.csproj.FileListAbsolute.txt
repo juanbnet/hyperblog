@@ -1,0 +1,7 @@
+C:\JT\LinqSamples\Introduction\bin\Debug\Introduction.exe.config
+C:\JT\LinqSamples\Introduction\bin\Debug\Introduction.exe
+C:\JT\LinqSamples\Introduction\bin\Debug\Introduction.pdb
+C:\JT\LinqSamples\Introduction\obj\Debug\Introduction.csprojAssemblyReference.cache
+C:\JT\LinqSamples\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\JT\LinqSamples\Introduction\obj\Debug\Introduction.exe
+C:\JT\LinqSamples\Introduction\obj\Debug\Introduction.pdb
